@@ -5,6 +5,7 @@
 <p>
   <b>石河子大学软件工程 NIIT 开源研讨会</b>
 </p>
+<img width="300" height="300" alt="1ade8c0a3e39f8961e8adac331a3b65f_720" src="https://github.com/user-attachments/assets/6b3d05f4-8b04-4b8a-8545-2a771729a7ac" />
 
 <p>
   <strong>Code for Learning, Build for Passion.</strong>
