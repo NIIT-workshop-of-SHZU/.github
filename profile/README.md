@@ -10,6 +10,7 @@
 <p>
   <b>石河子大学软件工程 NIIT 开源研讨会</b>
 </p>
+
 <p align="center">
   <img width="300" height="300" alt="NIIT Workshop of SHZU Logo" src="https://github.com/user-attachments/assets/6b3d05f4-8b04-4b8a-8545-2a771729a7ac" />
 </p>
@@ -91,6 +92,7 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :---: | :---: |
+| **[StudyForge_AI](https://github.com/NIIT-workshop-of-SHZU/StudyForge_AI)** | 面向个人成长与学习管理的 AI 项目，尝试把学习规划、任务追踪、社区互动与智能反馈结合起来。 | ![AI](https://img.shields.io/badge/AI-Learning%20Assistant-purple?style=flat-square) | 🚧 Dev |
 | **[Study Planner](https://github.com/NIIT-workshop-of-SHZU/study_planner)** | 面向学生的学习规划后端与核心业务仓库，支持课程、自学任务与计划管理。 | ![Java](https://img.shields.io/badge/Java-Spring%20Boot-green?style=flat-square) | 🚧 Dev |
 | **[Study Planner Frontend](https://github.com/NIIT-workshop-of-SHZU/study-planner-frontend)** | Study Planner 的前端界面，提供更直观的学习计划、任务追踪与用户交互体验。 | ![Frontend](https://img.shields.io/badge/Frontend-UI-blue?style=flat-square) | 🚧 Dev |
 
@@ -104,7 +106,7 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/nanlingyin">
         <img src="https://github.com/nanlingyin.png" width="96px;" style="border-radius: 50%;" alt="LynngNAN"/>
         <br />
@@ -115,7 +117,7 @@
       <br />
       👑 <b>Founder</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/Adrian-lzr">
         <img src="https://github.com/Adrian-lzr.png" width="96px;" style="border-radius: 50%;" alt="Zhurui Lv"/>
         <br />
@@ -126,7 +128,7 @@
       <br />
       Member
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/fgeygfe">
         <img src="https://github.com/fgeygfe.png" width="96px;" style="border-radius: 50%;" alt="Jue Wang"/>
         <br />
@@ -137,7 +139,10 @@
       <br />
       Member
     </td>
-    <td align="center" width="25%">
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
       <a href="https://github.com/jamie-abc">
         <img src="https://github.com/jamie-abc.png" width="96px;" style="border-radius: 50%;" alt="jamie-abc"/>
         <br />
@@ -148,9 +153,7 @@
       <br />
       Member
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/Lirc-C">
         <img src="https://github.com/Lirc-C.png" width="96px;" style="border-radius: 50%;" alt="Tuoao Li"/>
         <br />
@@ -161,7 +164,7 @@
       <br />
       Member
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/Near-Jungnune">
         <img src="https://github.com/Near-Jungnune.png" width="96px;" style="border-radius: 50%;" alt="Near Jungnune"/>
         <br />
@@ -172,7 +175,10 @@
       <br />
       Member
     </td>
-    <td align="center" width="25%">
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
       <a href="https://github.com/rainhuang0220">
         <img src="https://github.com/rainhuang0220.png" width="96px;" style="border-radius: 50%;" alt="ZhenYu Huang"/>
         <br />
@@ -183,7 +189,7 @@
       <br />
       Member
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/YaKuPaw-JY">
         <img src="https://github.com/YaKuPaw-JY.png" width="96px;" style="border-radius: 50%;" alt="Jiayi Liu"/>
         <br />
@@ -191,6 +197,17 @@
       </a>
       <br />
       <sub>YaKuPaw-JY</sub>
+      <br />
+      Member
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/zhang2362333-rgb">
+        <img src="https://github.com/zhang2362333-rgb.png" width="96px;" style="border-radius: 50%;" alt="zhang2362333-rgb"/>
+        <br />
+        <sub><b>zhang2362333-rgb</b></sub>
+      </a>
+      <br />
+      <sub>zhang2362333-rgb</sub>
       <br />
       Member
     </td>
@@ -238,7 +255,8 @@
 ## 📌 Organization Links | 相关链接
 
 - GitHub Organization: [NIIT Workshop of SHZU](https://github.com/NIIT-workshop-of-SHZU)
-- Main Project: [Study Planner](https://github.com/NIIT-workshop-of-SHZU/study_planner)
+- Main Project: [StudyForge_AI](https://github.com/NIIT-workshop-of-SHZU/StudyForge_AI)
+- Study Planner: [Study Planner](https://github.com/NIIT-workshop-of-SHZU/study_planner)
 - Frontend Project: [Study Planner Frontend](https://github.com/NIIT-workshop-of-SHZU/study-planner-frontend)
 
 ---
